@@ -6,8 +6,7 @@
 [lets start!](https://curiouscat.club/240AIF)
 
 ### January: Friday the 28th
-
-"""markdown
+```markdown
 maths: page 93 (2,4) + page (11,15)
 
 ancient greek: page 63 (1) translation
@@ -21,4 +20,4 @@ religion: nothing
 computer class: nothing
 
 history: page 95
-"""
+```
