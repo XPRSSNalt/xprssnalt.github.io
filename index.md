@@ -7,7 +7,7 @@
 
 ### January: Friday the 28th
 ```markdown
-maths: page 93 (2,4) + page (11,15)
+maths: page 93 (2,4) + page 94 (11,15)
 
 ancient greek: page 63 (1) translation
 
