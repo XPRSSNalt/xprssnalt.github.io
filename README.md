@@ -22,6 +22,8 @@ A: I originally wanted a place where I could see my homework from anywhere but l
 A: Of course! I would love to have more people contributing to this.
 
 ### Contact me
-Instagram: @_xprssn_
-Twiiter: #XPRSSN1
-Discord: XPRSSN#8473
+●Instagram: @_xprssn_
+
+●Twiiter: #XPRSSN1
+
+●Discord: XPRSSN#8473
