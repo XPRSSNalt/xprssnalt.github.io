@@ -1,7 +1,8 @@
 ### Welcome to the XPRSSNhub!
 ### We are happy to see you here!
-### Don't forget that this is a homework noting site.
-### At the moment ;)
+### You can check the README of the website [here](https://github.com/XPRSSNalt/xprssnalt.github.io/blob/main/README.md)
+### Make sure to provide feedback
+### My contact information will be at the bottom
 
 [lets start!](https://curiouscat.club/240AIF)
 
@@ -30,7 +31,7 @@ PPD: nothing
 
 chemistry: page 66 (board) + page 77 (53,54,55)
 
-gym: imagine if we had 
+gym: imagine if we had
 
 math: page 94 (A12, 13, 14) + notebook
 
@@ -56,3 +57,8 @@ literature: 1 paragraph about the basics of καζατζακη's life
 
 history: we left school early
 ```
+
+### Contact Info
+[Instagram](https://www.instagram.com/_xprssn_/)
+[Discord Server](https://discord.gg/Wr4ZRVze) !!Not finished yet!!
+[Twitter](https://twitter.com/XPRSSN1)
