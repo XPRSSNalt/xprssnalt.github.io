@@ -38,3 +38,21 @@ geometry: nothing due to the test
 
 biology: we had a class meeting
 ```
+
+### February: Tuesday the 1st
+καλό μήνα!
+```markdown
+math: page 95 (1,2,3) and optionals are (4,5,10)
+
+geometry: page 92 (AK2,5) + (AE3,5,7)
+
+physics: page 104 (30,31,32,33,34)
+
+english: photocopy excercise 4,5
+
+ancient greek: παραγογα του " ιδιοι" + page 67 (4)
+
+literature: 1 paragraph about the basics of καζατζακη's life
+
+history: we left school early
+```
