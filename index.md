@@ -59,6 +59,9 @@ history: we left school early
 ```
 
 ### Contact Info
+
 [Instagram](https://www.instagram.com/_xprssn_/)
+
 [Discord Server](https://discord.gg/Wr4ZRVze) !!Not finished yet!!
+
 [Twitter](https://twitter.com/XPRSSN1)
