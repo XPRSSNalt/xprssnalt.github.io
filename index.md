@@ -62,7 +62,17 @@ history: we left school early
 ### February: Wednesday the 2nd
 Σημερα δεν ηρθα στο σχολειο οποτε πρωτη φορα που δεν ερχονται απο εμενα. Ας ελπισουμε πως ο Δημητρης θα μου τα δωσει.
 ```markdown
-Οταν ερθουν, ή αν. Ποιος ξερει?
+physics: page 103 (17,18)
+
+computer class: bold, italic and underline in html5
+
+biology: the same
+
+gym class: 5 push ups
+
+language: μια παραγραφο για ενα ατομο που θαυμαζετε και γιατι?
+
+ancient greek: χρονικη ειδως/πλειους, θαττον στους τρεις βαθμους μεταφορα. + κλινω "των μακρυ τοιχων"
 ```
 ### Contact Info
 
