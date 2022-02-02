@@ -58,6 +58,12 @@ literature: 1 paragraph about the basics of καζατζακη's life
 history: we left school early
 ```
 
+
+### February: Wednesday the 2nd
+Σημερα δεν ηρθα στο σχολειο οποτε πρωτη φορα ποθ δεν ερχονται απο εμενα. Ας ελπισουμε πως ο Δημητρης θα μου τα δωσει.
+```markdown
+Οταν ερθουν, ή αν. Ποιος ξερει?
+```
 ### Contact Info
 
 ·[Instagram](https://www.instagram.com/_xprssn_/)
