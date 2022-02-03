@@ -79,7 +79,15 @@ ancient greek: χρονικη ειδως/πλειους, θαττον στους
 ### February: Thursday the 3rd
 Σημερα πηγαμε στις 10 και φυγαμε 1:15. P💯
 ```markdown
-Θα τα ανεβασω οταν παω σπιτι. Δεν εχω χρονο στην γιαγια μου γιατι θα φυγω σε λιγο :(
+german: we didn't do
+
+english: read the photocopy to learn about essays
+
+literature: Πως αντιμετοπιζει ο νεος στο 200πχ τους λακεδαιμονες που δεν μαχονται? + να βρειτε την δευτερη big time irony και να την σχολιασετε
+
+ancient greek: πισεσθε, νομιζοντες, κρατισαντε (χρον. αντ.)
+
+religion class: teacher didn't come so we left
 ```
 ### Contact Info
 
