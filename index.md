@@ -87,6 +87,8 @@ literature: Πως αντιμετοπιζει ο νεος στο 200πχ του�
 
 ancient greek: πισεσθε, νομιζοντες, κρατισαντε (χρον. αντ.)
 
+history: pages 98-99
+
 religion class: teacher didn't come so we left
 ```
 ### Contact Info
