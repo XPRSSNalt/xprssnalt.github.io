@@ -91,6 +91,22 @@ history: pages 98-99
 
 religion class: teacher didn't come so we left
 ```
+
+
+### February: Friday the 4th
+```markdown
+math: We didn't do math. We came second hour p💯
+
+chemistry: The board on page 68 or 63 or somewhere there (maybe be more specific pls mister?)
+
+english: we wrote an essay so nothing, as if you were gonna do english homework
+
+ancient greek: page 67 (8)
+
+religion: nothing, as usual
+
+computer class: nothing again, as usual
+```
 ### Contact Info
 
 ·[Instagram](https://www.instagram.com/_xprssn_/)
