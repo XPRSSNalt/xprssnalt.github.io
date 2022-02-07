@@ -107,6 +107,25 @@ religion: nothing, as usual
 
 computer class: nothing again, as usual
 ```
+
+
+### February: Monday the 7th
+```markdown
+ancient greek: page 67 (9)
+
+PPD: 6.1
+
+chemistry: page 79 (64)
+
+gym class: 5 push ups
+
+math: page 95 (6,7,8)
+
+geometry: the same
+
+biology: we didn't do
+
+```
 ### Contact Info
 
 ·[Instagram](https://www.instagram.com/_xprssn_/)
