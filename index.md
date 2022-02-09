@@ -126,6 +126,38 @@ geometry: the same
 biology: we didn't do
 
 ```
+
+
+### February: Tuesday the 8th
+```markdown
+math: excercises from notebook
+
+geometry: page 92(AE 4,6)
+
+physics:page 151 (1,2,3,4,5)
+
+english: nothing
+
+literature: Να σχολιασεις την μεταβολη των καταστασεων. + Πως τελικα η ιστορια διεμενος τον τοπο σκεψεις των ανθρωπων στα 3 χρονικα επιπεδα των ανθρωπων.
+
+history: page 99-100
+```
+
+
+### February: Wednesnday the 9th
+```markdown
+physics: the same
+
+computer class: nothing
+
+biology: questions from notebook (speech)
+
+gym class: nothing, unless you wanna do 5 pushups you slob
+
+language: the same + new photocopy (A1,A2)
+
+ancient greek: we didn't do
+```
 ### Contact Info
 
 ·[Instagram](https://www.instagram.com/_xprssn_/)
