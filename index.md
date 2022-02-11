@@ -159,6 +159,36 @@ language: the same + new photocopy (A1,A2)
 
 ancient greek: we didn't do
 ```
+
+
+### February: Thursday the 10th
+```markdown
+German(x2): We didn't do. We came the third hour.
+
+religion: nothing
+
+literature: the same
+
+ancient greek: the same
+```
+
+
+### February: Friday the 11th
+```markdown
+chemistry: page 113(18-24) only the circled
+
+math: notebook excercises
+
+english: nothing
+
+ancient greek: ιρεθει εγκλ. αντ. 3η πληθ. + page 76 (4)
+
+religion: nothing
+
+computer class: nothing
+
+PPD: still nothing
+```
 ### Contact Info
 
 ·[Instagram](https://www.instagram.com/_xprssn_/)
